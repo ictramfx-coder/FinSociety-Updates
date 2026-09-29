@@ -23,12 +23,12 @@
 
 | | |
 |---|---|
-| ![Track selection](assets/screenshots/a_launcher.png) | ![CFA exam mode](assets/screenshots/b_cfa_exam.png) |
+| ![Track selection](assets/a_launcher.png) | ![CFA exam mode](assets/b_cfa_exam.png) |
 | *Pick your track — CFA or CAT* | *True exam conditions with a live question palette* |
-| ![CAT exam mode](assets/screenshots/c_cat_exam.png) | ![Flashcards](assets/screenshots/d_flashcards.png) |
+| ![CAT exam mode](assets/c_cat_exam.png) | ![Flashcards](assets/d_flashcards.png) |
 | *Sectional timing, TITA inputs, +3/−1 marking* | *Spaced-repetition flashcards built in* |
 
-![Weekly leaderboard](assets/screenshots/e_leaderboard.png)
+![Weekly leaderboard](assets/e_leaderboard.png)
 *Weekly leaderboards to keep the grind competitive*
 
 ---
