@@ -19,6 +19,8 @@
 
 ## Preview
 
+*Concept renders from the app's design system — illustrative, not actual screenshots.*
+
 | | |
 |---|---|
 | ![Track selection](assets/screenshots/a_launcher.png) | ![CFA exam mode](assets/screenshots/b_cfa_exam.png) |
