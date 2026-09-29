@@ -1,14 +1,33 @@
-# FinSociety — Official Releases
+<div align="center">
+
+<img src="assets/logo.png" width="120" alt="FinSociety logo">
+
+# FinSociety
+
+### Exam-grade mock software for CFA Levels 1–3 and CAT — on Windows and in the browser, under one licence key.
 
 [![Latest release](https://img.shields.io/github/v/release/ictramfx-coder/FinSociety-Updates?label=latest&style=flat-square)](https://github.com/ictramfx-coder/FinSociety-Updates/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/ictramfx-coder/FinSociety-Updates/total?style=flat-square&label=downloads)](https://github.com/ictramfx-coder/FinSociety-Updates/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square)](#system-requirements)
 [![Licence](https://img.shields.io/badge/licence-yearly%20key-22c55e?style=flat-square)](#licence--activation)
 
-Official download hub for the **FinSociety** desktop app — exam-grade mock software for **CFA Levels 1–3** and **CAT**. Full-length timed mocks, deep performance analytics and a complete exam toolkit, on Windows and in the browser under one licence key.
+[Website](https://finsociety.pages.dev) · [Get a licence key](https://finsociety.pages.dev/get-access.html) · [All releases](https://github.com/ictramfx-coder/FinSociety-Updates/releases)
 
-- Website: https://finsociety.pages.dev
-- Support: finsocietycfa@gmail.com
-- Community: [CFA WhatsApp](https://chat.whatsapp.com/HgJJ3qXLEDEAIEyVwhr0DB) · [CAT WhatsApp](https://chat.whatsapp.com/KZjXI7smT5IDV2KwnN0VuA) · [Telegram](https://t.me/+8mGzCByucF80MjM1)
+</div>
+
+---
+
+## Preview
+
+| | |
+|---|---|
+| ![Track selection](assets/screenshots/a_launcher.png) | ![CFA exam mode](assets/screenshots/b_cfa_exam.png) |
+| *Pick your track — CFA or CAT* | *True exam conditions with a live question palette* |
+| ![CAT exam mode](assets/screenshots/c_cat_exam.png) | ![Flashcards](assets/screenshots/d_flashcards.png) |
+| *Sectional timing, TITA inputs, +3/−1 marking* | *Spaced-repetition flashcards built in* |
+
+![Weekly leaderboard](assets/screenshots/e_leaderboard.png)
+*Weekly leaderboards to keep the grind competitive*
 
 ---
 
@@ -69,7 +88,10 @@ Full details: [CHANGELOG.md](CHANGELOG.md)
 
 - Email: **finsocietycfa@gmail.com** — fastest for licence and payment issues.
 - Found a bug? [Open an issue](https://github.com/ictramfx-coder/FinSociety-Updates/issues) using the bug report template.
-- Doubts & prep discussion: the WhatsApp / Telegram communities linked at the top.
+- Prep discussion & doubts:
+  - [CFA WhatsApp community](https://chat.whatsapp.com/HgJJ3qXLEDEAIEyVwhr0DB)
+  - [CAT WhatsApp community](https://chat.whatsapp.com/KZjXI7smT5IDV2KwnN0VuA)
+  - [Telegram](https://t.me/+8mGzCByucF80MjM1)
 
 ## FAQ
 
@@ -90,4 +112,10 @@ Refunds are handled case-by-case — contact finsocietycfa@gmail.com.
 
 ---
 
+<div align="center">
+
+**Built for aspirants, by aspirants.** Good luck — see you on the other side of the MPS line.
+
 © 2026 FinSociety. All rights reserved.
+
+</div>
